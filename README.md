@@ -8,3 +8,5 @@ jogo para os alunos treinarem o versionamento de código
 17/09 - hoje fizemos a movimento do player mais nao so isso tambem fizemos o pulo do player mais ele nao ta completo pois ele esta pulando infinitamente mais acredito que com o passar do tempo iremos limitar o pulo para controlalo.
 
 22/09 - hoje fizemos a reconfiguraçao do pulo fazendo com o personagem/player nao ficasse pulando infinitamente alem disso tambem criamos uma teg "Ground" para o chão definindo o para ser nosso piso para o nosso boneco
+
+24/09 - 
