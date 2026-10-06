@@ -9,4 +9,6 @@ jogo para os alunos treinarem o versionamento de código
 
 22/09 - hoje fizemos a reconfiguraçao do pulo fazendo com o personagem/player nao ficasse pulando infinitamente alem disso tambem criamos uma teg "Ground" para o chão definindo o para ser nosso piso para o nosso boneco
 
-24/09 - 
+24/09 - hoje fizemos a movimentação do nosso player para ele andar para um lado e para o outro alem disso fizemos a complementação e a criação do mapa com base em nosso "GDD" alem de tudo isso fizemos obstaculos para nosso mapa ter um pouco de dificuldade e criamos puzzle para passar desse obstaculos.
+
+27/09- Hoje fizemos e complementamos o nosso mapa para alem disso tambem adicionamos a tag "DANO" aonde toda vez que o player encosta em um obstaculo ele automaticamente volta para o inicio fazendo com que o obstaculo tenha um colisor para quando o player morrer ele nao continuara a faze tornado se o jogo mais dificil e que tenha obstaculos.
